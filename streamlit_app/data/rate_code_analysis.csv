@@ -1,0 +1,8 @@
+rate_code,rate_type,trip_count,avg_fare,total_revenue
+1,Standard,5956,150.77,1045255.43
+2,Airport,1487,152.8,264947.57
+3,Connaught Place,1016,155.51,182123.35
+4,Noida,795,142.99,132507.27
+5,Negotiated Fare,546,147.23,93437.89
+6,Pooled Ride,200,147.04,34191.6
+

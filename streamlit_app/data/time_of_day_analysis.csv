@@ -1,0 +1,6 @@
+time_of_day,trip_count,total_revenue,avg_fare,avg_distance
+Morning,2819,494728.32,175.5,8.84
+Afternoon,2139,379433.41,177.39,9.0
+Evening,1656,289811.0,175.01,8.74
+Night,3386,588490.38,173.8,8.73
+

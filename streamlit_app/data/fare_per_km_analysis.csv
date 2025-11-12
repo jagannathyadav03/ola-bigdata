@@ -1,0 +1,10 @@
+city,avg_fare_per_km,min_fare_per_km,max_fare_per_km,trip_count
+Pune,23.19,12.63,74.59,1280
+Bangalore,22.54,12.57,75.66,1172
+Delhi,22.36,12.63,75.12,1216
+Chennai,22.35,12.57,77.53,1243
+Mumbai,22.24,12.39,71.16,1262
+Ahmedabad,22.22,12.47,73.44,1285
+Hyderabad,22.11,12.46,76.47,1266
+Kolkata,22.1,12.59,74.47,1276
+

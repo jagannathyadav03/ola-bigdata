@@ -1,0 +1,4 @@
+vendor_id,vendor_name,trip_count,total_revenue,avg_fare,avg_rating,avg_distance
+1,TaxiTech Inc.,5135,904851.96,176.21,3.99,8.9
+2,DataCollectors Inc.,4865,847611.15,174.23,4.0,8.74
+
