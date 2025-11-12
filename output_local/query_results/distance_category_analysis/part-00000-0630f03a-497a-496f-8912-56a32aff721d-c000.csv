@@ -1,0 +1,5 @@
+distance_category,trip_count,avg_distance,avg_fare,avg_duration_min,total_revenue
+Short,3988,2.82,78.29,17.9,380485.69
+Medium,4344,8.93,152.32,36.3,769938.62
+Long,1431,20.42,289.89,70.91,469395.61
+Very Long,237,37.63,497.74,122.45,132643.19

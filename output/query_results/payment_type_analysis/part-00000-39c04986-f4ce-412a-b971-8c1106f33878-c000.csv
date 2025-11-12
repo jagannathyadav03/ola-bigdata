@@ -1,0 +1,6 @@
+payment_type,trip_count,percentage,total_revenue,avg_transaction_value
+Wallet,2041,20.41,362961.86,177.84
+UPI,2011,20.11,350202.2,174.14
+Cash,2000,20.00,357733.96,178.87
+Credit Card,1995,19.95,342288.27,171.57
+Free Ride,1953,19.53,339276.82,173.72
